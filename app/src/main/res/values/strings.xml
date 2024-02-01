@@ -2,5 +2,7 @@
     <string name="app_name">Gestures</string>
     <string name="tap">Tap to boop the snoot</string>
     <string name="double_tap">Double tap to pat the pupper</string>
-    <string name="hold">Tap and hold to pet the pupper</string>
+    <string name="hold">Scroll to pet the pupper</string>
+    <string name="fling">Flick to scritch</string>
+    <string name="zoom">Pinch to zoom</string>
 </resources>
